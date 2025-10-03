@@ -47,10 +47,10 @@ Dalli would not exist in its current form without the contributions of many peop
 
 ## Authors
 
-* [Peter M. Goldstein](https://github.com/petergoldstein) - current maintainer
+* [Nazar](https://github.com/ssip001) - current maintainer
 * [Mike Perham](https://github.com/mperham) and contributors
 
 
 ## Copyright
 
-Copyright (c) Mike Perham, Peter M. Goldstein. See LICENSE for details.
+Copyright (c) Mike Perham, Nazar. See LICENSE for details.
